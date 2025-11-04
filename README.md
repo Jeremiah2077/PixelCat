@@ -1,7 +1,6 @@
 <div align="center">
   <img src="PixelCat.png" alt="PixelCat Logo" width="200"/>
 
-  # PixelCat
 
   **Professional Photography Portfolio Management Platform**
 
